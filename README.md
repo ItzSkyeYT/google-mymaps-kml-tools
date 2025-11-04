@@ -58,7 +58,7 @@ Follow the prompts to:
 1. Select folder containing KML/KMZ files
 2. Choose output directory
 3. Set base name for combined files
-4. Specify maximum placemarks per output file
+4. Specify maximum placemarks per output file (defaults to max 2000 points per layer, compatible to upload as a layer on google maps my maps)
 
 ### Convert CSV/JSON to KML
 
@@ -68,7 +68,7 @@ python csv_or_json_to_kml.py
 Follow the prompts to:
 1. Select input CSV/JSON file
 2. Choose output directory
-3. Set maximum placemarks per output file
+3. Set maximum placemarks per output file (defaults to max 2000 points per layer, compatible to upload as a layer on google maps my maps)
 
 ### Extract from Google My Maps
 
