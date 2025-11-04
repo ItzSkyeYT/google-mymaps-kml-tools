@@ -17,7 +17,7 @@ Merges multiple KML/KMZ files from a folder into a single or multiple KML files.
 Converts CSV or JSON files containing location data into KML format. Expects columns/fields for coordinates (lat/lon), names, descriptions, and optionally styles and layer information. Perfect for bulk-converting location databases to Google My Maps format.
 
 ### KML_extractor.py
-Extracts all placemarks and their data from a Google My Maps URL or map ID into CSV and JSON formats. Captures names, descriptions, coordinates, styles, layers, and custom fields. Useful for backing up or migrating map data.
+Extracts all placemarks and their data from a Google My Maps URL or map ID into CSV and JSON formats. Captures names, descriptions, coordinates, styles, layers, and custom fields. Useful for backing up or migrating map data. This script may violate terms of service, use only if you have permission (this script will work even if you don't have the permissions on the map to extract the KML file directly). Expected input for map: https://goo.gl/maps/<MAP_ID> or https://www.google.com/maps/d/u/0/viewer?<whatever's next>
 
 ### extract_country_kml.py
 Analyzes placemarks in KML/KMZ files and splits them into separate files by country. Can use either embedded country data or reverse geocoding to determine locations. Helpful for organizing international datasets into region-specific maps.
