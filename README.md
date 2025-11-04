@@ -88,7 +88,7 @@ Follow the prompts to:
 1. Select input KML/KMZ file or folder
 2. Choose output directory
 3. Select countries to extract
-4. Set maximum placemarks per output file
+4. Set maximum placemarks per output file (defaults to max 2000 points per layer, compatible to upload as a layer on google maps my maps)
 
 ## Disclaimer
 
