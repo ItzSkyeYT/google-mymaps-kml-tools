@@ -89,7 +89,7 @@ Follow the prompts to:
 
 ## Disclaimer
 
-These scripts are provided "as is", without warranty of any kind. Use at your own risk. The author take no responsibility for any issues or damages that may arise from using these tools.
+These scripts are provided "as is", without warranty of any kind. Use at your own risk. The author takes no responsibility for any issues or damages that may arise from using these tools.
 
 ## Contributing
 
@@ -102,3 +102,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Future changes
 
 This project is stable, updates unlikely unless bugs found.
+Happy mapping :)
