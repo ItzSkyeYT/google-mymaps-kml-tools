@@ -1,6 +1,3 @@
-# google-mymaps-kml-tools
-Python tools for manipulating Google My Maps KML files - split, combine, convert, and extract data from KML/KMZ files easily.
-
 # Google My Maps KML Tools
 
 A collection of Python scripts for manipulating Google My Maps KML files. These tools allow you to split, combine, convert, and extract data from KML files.
