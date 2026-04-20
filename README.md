@@ -1,3 +1,12 @@
+> [!WARNING]
+> **⚠️ Beware of malicious forks!** A malicious copy of this repository exists at
+> [maysonjames938-cell/google-mymaps-kml-tools](https://github.com/maysonjames938-cell/google-mymaps-kml-tools)
+> which distributes malware disguised as this tool. **This is the only official repository.**
+> If you encounter that repo, please report it using the "Report repository" button on their page.
+
+
+
+
 # Google My Maps KML Tools
 
 A collection of Python scripts for manipulating Google My Maps KML files. These tools allow you to split, combine, convert, and extract data from KML files.
