@@ -1,9 +1,13 @@
-> [!WARNING]
-> **⚠️ Beware of malicious forks!** A malicious copy of this repository exists at
-> [maysonjames938-cell/google-mymaps-kml-tools](https://github.com/maysonjames938-cell/google-mymaps-kml-tools)
-> which distributes malware disguised as this tool. **This is the only official repository.**
-> If you encounter that repo, please report it using the "Report repository" button on their page.
-
+> [!CAUTION]
+> ## ⚠️ WARNING: MALICIOUS FORK EXISTS
+> A malicious copy of this repository exists at
+> **[maysonjames938-cell/google-mymaps-kml-tools](https://github.com/maysonjames938-cell/google-mymaps-kml-tools)**
+> which distributes **malware** disguised as this tool.
+> 
+> **This is the only official repository:** `github.com/ItzSkyeYT/google-mymaps-kml-tools`
+> 
+> If you encounter that repo, please report it via the **"Report repository"** button on their page.
+> DMCA takedown and abuse reports have already been filed with GitHub (tickets #4303373 and #4303417).
 
 
 
